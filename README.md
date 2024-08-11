@@ -14,3 +14,6 @@ Pieces:
 
 How to win:
 - To win, the player have to kill the king, there are pieces white and black which players can use to achieve this goal.
+
+SCORES
+- Players will have a history where the games are saved. This games, are ordered by default with the date of game in descendant order, the most actually at the top and the older at the bottom. You can replay the moves and see the full history of plays 
